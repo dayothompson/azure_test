@@ -1,0 +1,9 @@
+{
+	"name": "dayodatafacory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3349a728-5356-48a5-8040-91a3d32a2692",
+		"tenantId": "78aac226-2f03-4b4d-9037-b46d56c55210"
+	}
+}
